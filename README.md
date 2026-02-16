@@ -67,7 +67,7 @@ The optimal strategy determined by the Bayesian model is:
 - Invest 70% in Stocks and 30% in Bonds
 
 Bayesian Network
-![Bayesian_Network](images/Bayesian_Network_Netica.png)
+![Bayesian_Network](image/Bayesian_Network_Netica.png)
 
 💰 Expected Portfolio Return:
 
