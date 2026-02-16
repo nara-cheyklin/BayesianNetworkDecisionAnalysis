@@ -2,7 +2,7 @@
 
 🧠 Project Summary
 
-This project models a high-stakes investment decision under uncertainty using Bayesian Decision Networks implemented in Netica.
+This project models a high-stakes investment decision under discrete uncertainty using Bayesian Decision Networks implemented in Netica.
 An individual investor must determine how to allocate a $1,000,000 portfolio between stocks and bonds while accounting for multiple layers of uncertainty, including:
 - Stock market performance
 - Bond yields
